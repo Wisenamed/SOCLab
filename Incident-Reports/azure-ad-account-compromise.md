@@ -10,6 +10,8 @@ Suspicious sign-in activity was detected for a cloud user account, indicating a 
 - Severity: Medium
 - Detection Source: Microsoft Sentinel
 - Affected Service: Azure AD (Entra ID)
+- Date Identified: Simulated Lab Scenario
+
 
 ---
 
